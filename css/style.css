@@ -1,5 +1,6 @@
 html * {
     font-family: 'Hind Siliguri', sans-serif !important;
+    overflow-x: hidden;
 }
 
 .imgPerfil {
