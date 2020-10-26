@@ -84,6 +84,12 @@ a.active {
     div.ml-5 {
         margin-left: 0.5rem !important;
     }
+
+    #tituloCompetencias {
+        margin: 0px !important;
+        padding: 0px !important;
+        text-align: center !important;
+    }
 }
 
 @media only screen and (max-width: 1400px) and (min-width: 992px){
