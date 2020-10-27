@@ -1,5 +1,8 @@
 html * {
     font-family: 'Hind Siliguri', sans-serif !important;
+}
+
+body {
     overflow-x: hidden;
 }
 
